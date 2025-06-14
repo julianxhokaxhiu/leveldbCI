@@ -1,0 +1,12 @@
+{
+  "default": {
+    "crc32c": {
+      "baseline": "1.1.2",
+      "port-version": 2
+    },
+    "leveldb": {
+      "baseline": "1.23",
+      "port-version": 0
+    }
+  }
+}
